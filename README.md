@@ -12,7 +12,7 @@
   - 各種 Markdown ファイルにある、ファイルへのリンクは動かないです。ご了承ください
 - その他不要と判断したもの。リポジトリに予め入っていた実行ファイルなど
 
-Jupyter Notebook で解答したファイルは MIT LICENSE で公開しています。
+Jupyter Notebook で解答したファイルは MIT LICENSE で公開しています。**私が作成したのはあくまで Jupyter Notebook による解答のみであり、その他の著作物は全て yoyoyo-yo 氏によるものです。**
 
 これ以下は本家リポジトリの README です。(最新版は https://github.com/tsutaj/Gasyori100knock を参照)
 
